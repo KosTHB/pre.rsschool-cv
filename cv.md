@@ -1,7 +1,8 @@
 # Konstantin Nepovinnov
 *********
 ![my_photo](./CV.png "Аватар")
-*********
+
+
 ## Contacts:
   * __Phone:__ +7(927)00-61-841 
   * __Location:__ Russia, Samara
@@ -12,7 +13,9 @@
 ## About me:
 >I am 32 years. I am very inquisitive and every day I study and learn something new for myself. It makes me happy. 
  I set myself the goal of becoming a Frontend developer and, step by step, is getting closer to its implementation.
-*********
+
+
+
 ## Skills
 * HTML
 * CSS
@@ -22,7 +25,6 @@
 * Windows OS
 * Figma(for web development)
 * VSCode
-*********
 ## Code Example:
 ```
 function filter_list(l) {
@@ -39,7 +41,6 @@ function filter_list(l) {
 ## Experience:
 __Projects:__
 * CV <https://KosTHB.github.io/rsschool-cv/cv>
-*********
 ## Education:
 
 Samara Academy of Culture and art
@@ -47,7 +48,6 @@ Samara Academy of Culture and art
 * Courses:
     * CS50
     * SoloLearn
-*********
 ## English:
 A2 (*School, Academy, Duolingo*)
 

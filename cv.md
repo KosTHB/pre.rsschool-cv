@@ -48,6 +48,8 @@ Samara Academy of Culture and art
 * Courses:
     * CS50
     * SoloLearn
+
+*********
 ## English:
 A2 (*School, Academy, Duolingo*)
 

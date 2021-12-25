@@ -60,6 +60,47 @@ body {
 }  
 
 
+h1 {
+  font-size: 42px;
+  font-weight: 400;
+}
+
+/* 
+.name {
+  line-height: 0%;
+} */
+
+
+.section-title {
+  font-family: Quicksand;
+  /* font-size: 36px; */
+}
+
+.section-title-title {
+  margin-top: -38px;
+  font-family: Quicksand;
+  font-size: 26px;
+}
+
+
+#name {
+  position: relative;
+}
+
+
+img {
+  float: left;
+  padding: 0 20px 20px 0;
+  width: 20%;
+  height: 20%;
+}
+
+
+#contacts {
+  position: relative;
+  margin-top: 310px;
+}
+
 
 .main {
   position: relative;

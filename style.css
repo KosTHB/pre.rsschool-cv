@@ -1,6 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
 @font-face {
   font-family: Quicksand;
    src: url("assets/fonts/Quicksand-VariableFont_wght.ttf");
  }
 
- 

@@ -101,16 +101,26 @@ h1 {
   padding: 10px;
   padding-bottom: 10px;
   padding-bottom: 35px;
-  border-bottom: 1px solid #672f2f;
 }
 
 
 .section-title {
   font-family: Quicksand;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+
+
+.section-profile-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 .section-title-title {
-  margin-top: -38px;
   font-family: Quicksand;
   font-size: 26px;
 }
@@ -140,10 +150,10 @@ h1 {
 }
 
 
-#contacts {
+/* #contacts {
   position: relative;
   margin-top: 310px;
-}
+} */
 
 
 .main {
